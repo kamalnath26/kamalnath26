@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Mobile & Field Robotics**
 
-- 💬 Ask me about **ROS, ROS2, Robot Simulation Gazebo, RViz, SLAM and Path Planning**
+- 💬 Ask me about **AMR, AGV, Computer Vision, Sensor Fusion, ROS, ROS2, Robot Simulation Gazebo, RViz, SLAM and Path Planning**
 
 - 📫 Reach me at **bathirappan.k@northeastern.edu**
 
