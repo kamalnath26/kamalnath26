@@ -127,7 +127,7 @@ Here are some ideas to get you started:
     <a href="https://www.ros.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros" width="40" height="40" /></a> ROS
     <a href="https://index.ros.org/doc/ros2/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" alt="ros2" width="40" height="40" /></a> ROS2
     <a href="http://gazebosim.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gazebo/gazebo-original.svg" alt="Gazebo" width="40" height="40" /></a> Gazebo
-    <a href="https://rviz.org/" target="_blank"><img src="https://raw.githubusercontent.com/ros-visualization/rviz/noetic-devel/images/splash.png" alt="RViz" width="40" height="40" /></a> RViz
+    <a href="https://wiki.ros.org/rviz" target="_blank"><img src="https://raw.githubusercontent.com/ros-visualization/rviz/noetic-devel/images/splash.png" alt="RViz" width="40" height="40" /></a> RViz
     <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40" /></a> MATLAB
     <a href="https://www.ni.com/en-us/shop/labview.html" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/labview/labview-original.svg" alt="LabView" width="40" height="40" /></a> LabView
     <a href="https://www.qt.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="Qt" width="40" height="40" /></a> Qt
@@ -144,10 +144,28 @@ Here are some ideas to get you started:
     <a href="https://azure.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" /></a> Azure
 </p>
 
+### AWS Services
+<p align="left">
+    <a href="https://aws.amazon.com/s3/" target="_blank"><img src="images/aws_s3.png" alt="S3" width="40" height="40" /></a> S3
+    <a href="https://aws.amazon.com/lambda/" target="_blank"><img src="images/aws_lambda.png" alt="Lambda" width="40" height="40" /></a> Lambda
+    <a href="https://aws.amazon.com/ec2/" target="_blank"><img src="images/aws_ec2.jpg" alt="EC2" width="40" height="40" /></a> EC2
+    <a href="https://aws.amazon.com/ecr/" target="_blank"><img src="images/aws_ecr.png" alt="ECR" width="40" height="40" /></a> ECR
+</p>
+
 ## Development & Version Control Tools
 <p align="left">
     <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></a> Docker
     <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" /></a> Git
+    <a href="https://podman.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg" alt="Podman" width="40" height="40" /></a> Podman
+    <a href="https://min.io/" target="_blank"><img src="images/minio.png" alt="MinIO" width="40" height="40" /></a> MinIO
+
+</p>
+
+## Additional Tools & Technologies
+<p align="left">
+    <a href="https://www.elastic.co/elasticsearch" target="_blank"><img src="images/elastic_search.png" alt="Oreo Dashboard" width="40" height="40" /></a> Elastic Search
+    <a href="https://www.elastic.co/kibana" target="_blank"><img src="images/kibana.png" alt="Kibana" width="40" height="40" /></a> Kibana
+    <a href="https://www.antmedia.io/" target="_blank"><img src="images/ant_media.png" alt="Ant Media Server" width="40" height="40" /></a> Ant Media Server
 </p>
 
 ## CAD & Simulation Software
@@ -167,10 +185,10 @@ Here are some ideas to get you started:
     <a href="https://developer.nvidia.com/embedded/jetson" target="_blank"><img src=images/jetson.jpg alt="Jetson" width="40" height="40" /></a> Jetson
     <a href="https://www.intel.com/content/www/us/en/products/sku/121313/intel-nuc.html" target="_blank"><img src=images/nuc.jpg alt="Intel NUC" width="40" height="40" /></a> Intel NUC
     <a href="https://www.stereolabs.com/zed/" target="_blank"><img src=images/realsense.jpg alt="Depth & Stereo Camera" width="40" height="40" /></a> Depth & Stereo Camera
-    <a href="https://www.xsens.com/products/mti-1/" target="_blank"><img src=images/vectornav.png alt="IMU" width="40" height="40" /></a> IMU
+    <a href="https://www.vectornav.com/" target="_blank"><img src=images/vectornav.png alt="IMU" width="40" height="40" /></a> IMU
     <a href="https://www.u-blox.com/en/product/gps-modules" target="_blank"><img src=images/rtk_gps.png alt="GPS" width="40" height="40" /></a> GPS
     <a href="https://www.velodynelidar.com/" target="_blank"><img src=images/velodyne.jpg alt="Lidar" width="40" height="40" /></a> Lidar
-    <a href="https://www.dji.com/" target="_blank"><img src=images/px4_orange_cube.jpg alt="Flight Controller" width="40" height="40" /></a> Flight Controller
+    <a href="https://docs.px4.io/main/en/flight_controller/cubepilot_cube_orange.html" target="_blank"><img src=images/px4_orange_cube.jpg alt="Flight Controller" width="40" height="40" /></a> Flight Controller
 </p>
 
 ## Robotics & Navigation
